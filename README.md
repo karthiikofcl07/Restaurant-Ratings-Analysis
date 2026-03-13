@@ -27,14 +27,7 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🍽️   COGNIFYZ TECHNOLOGIES  ·  DATA ANALYTICS INTERNSHIP                 │
-│         Level 1  ·  Task 3  ·  Restaurant Ratings & Engagement             │
-│                                                                             │
-│   "Transforming 9,551 data points into actionable dining intelligence"      │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+
 ```
 
 </div>
