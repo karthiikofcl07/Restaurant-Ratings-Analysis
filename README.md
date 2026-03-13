@@ -529,7 +529,7 @@ This project was developed for **educational and portfolio purposes** as part of
 
 <br/>
 
-**Your Name**
+**Karthikeyan Thirunavukkarasu**
 *Data Analytics Intern · Cognifyz Technologies*
 
 <br/>
