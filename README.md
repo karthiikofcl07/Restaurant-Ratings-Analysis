@@ -26,16 +26,9 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🍽️   COGNIFYZ TECHNOLOGIES  ·  DATA ANALYTICS INTERNSHIP                 │
-│         Level 1  ·  Task 3  ·  Restaurant Ratings & Engagement             │
-│                                                                             │
-│   "Transforming 9,551 data points into actionable dining intelligence"      │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+### 🍽️ &nbsp; Cognifyz Technologies &nbsp;·&nbsp; Data Analytics Internship &nbsp;·&nbsp; Level 1 · Task 3
+
+*"Transforming 9,551 data points into actionable dining intelligence"*
 
 </div>
 
@@ -536,7 +529,7 @@ This project was developed for **educational and portfolio purposes** as part of
 
 <br/>
 
-**Karthikeyan Thirunavukkarasu**
+**Your Name**
 *Data Analytics Intern · Cognifyz Technologies*
 
 <br/>
