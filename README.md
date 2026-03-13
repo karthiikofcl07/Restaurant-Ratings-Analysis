@@ -423,7 +423,7 @@ This project is developed for **educational purposes** as part of the **Cognifyz
 
 <div align="center">
 
-**Your Name**
+**Karthikeyan Thirunavukkarasu**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
